@@ -1,4 +1,5 @@
-Repo for JsonSerde bug
+Repo for JsonSerde bug. 
+
 There is and employee and Programme(subclass of Employee)
 Flow -
 1. send via a kafka template using jsonserializer to a topic INPUT_1/INPUT_3
