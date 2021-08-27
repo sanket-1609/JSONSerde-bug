@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    streams:
+      application-id: SANKET_TEST
+    security:
+      protocol: PLAINTEXT
+    producer:
+      acks: all
